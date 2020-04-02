@@ -1,0 +1,31 @@
+.page {
+    max-width: 80%;
+    margin: auto;
+
+}
+
+.banner {
+    display: flexbox;
+    margin: auto;
+    border-color: transparent;
+    border-radius: 20px;
+}
+
+.title {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.content {
+    padding: 1em;
+    text-align: left;
+    font-weight: 500;
+}
+
+.end {
+    border: 0px;
+    border-top: 4px;
+    border-style: solid;
+    border-color: grey;
+    padding-top: 1em;
+}
