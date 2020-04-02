@@ -58,6 +58,7 @@
 .event button {
     width: 10em;
     height: 3em;
+    border: 0px;
     border-radius: 20px;
     transition: ease-in-out;
 }
